@@ -21,7 +21,7 @@ public class Main {
         System.out.println(barba.getDescricao());
         System.out.println(barba.getValor());
         
-        Cliente cliente = new Cliente(1, "João Batista", "Rua tal la", "23131231");
+        Cliente cliente = new Cliente(1, "João", "Rua das aves", "23131231");
         
         System.out.println(cliente.getNome());
         
